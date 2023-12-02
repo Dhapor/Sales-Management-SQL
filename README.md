@@ -1,0 +1,2 @@
+# Sales-Management-SQL
+Explore a SQL-based sales management system! This project covers data on agents, customers, and orders. From basic queries to complex joins, discover insights about top customers, high-value transactions, and effective agents. Whether you're learning SQL or interested in sales analytics, dive into the queries to understand the dynamics of sales data. Run the queries, analyze results, and unlock valuable information about customers, agents, and transactions. Sales made simple through SQL!
